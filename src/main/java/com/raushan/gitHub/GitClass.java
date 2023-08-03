@@ -36,8 +36,13 @@ public class GitClass {
 	// bug fixed 1104
 		System.out.println(p1);
 		
+
 		// for stash 2
 		int x;
+
+		// for bug stash 1
+		int a;
+
 	}
 
 }
