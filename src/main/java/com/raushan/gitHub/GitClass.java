@@ -13,14 +13,13 @@ public class GitClass {
 	//changes for Bug 101
 	int p =10;
 	int q =11;
-<<<<<<< Updated upstream
+
 	int r = p+q;
 	
 	// bug fixed 104
 	System.out.println(r);
 	
-=======
->>>>>>> Stashed changes
+
 	
 		
 	}
