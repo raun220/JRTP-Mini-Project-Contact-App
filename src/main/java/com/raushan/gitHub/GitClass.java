@@ -19,7 +19,10 @@ public class GitClass {
 	// bug fixed 104
 	System.out.println(r);
 	
-	
+	//changes for Bug 1101
+	int p1 =10;
+	int q1 =11;
+	int r1 = p1+q1;
 	
 	
 	
