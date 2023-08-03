@@ -48,4 +48,8 @@ public class GitClass {
                        System.out.println("git branch");
                   }
 
+                  public void branchGit2(String b2) {
+                       System.out.println("git branch2");
+                  }
+
 }
