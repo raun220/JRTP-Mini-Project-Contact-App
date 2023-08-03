@@ -26,6 +26,12 @@ public class GitClass {
 
 	
 		
+	
+	
+	
+	
+	// bug fixed 1104
+		System.out.println(p1);
 	}
 
 }
