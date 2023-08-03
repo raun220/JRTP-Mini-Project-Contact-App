@@ -44,5 +44,8 @@ public class GitClass {
 		int a;
 
 	}
+                  public void branchGit(String b) {
+                       System.out.println("git branch");
+                  }
 
 }
